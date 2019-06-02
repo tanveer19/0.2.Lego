@@ -117,7 +117,7 @@
   border-radius: 6px;
   max-width: 550px;
   max-height: 447px;
-  margin-right: 20px;
+  margin-right: 14px;
   margin-top:-34px;
   font-family: 'Ubuntu', Arial, sans-serif;
 }
@@ -153,11 +153,6 @@
 }
 
 
-/* .bg-part2 .col-md-2 {
-  max-width: 190px;
-  max-height: 220px;
-} */
-
 /*part3*/
 .bg-part3 {
   background-image: url("../images/part3bg.jpg");
@@ -166,15 +161,15 @@
   background-repeat: repeat-x;
 }
 
-.part3content {
+.part3Container{
   max-width: 364px;
+  margin-right: 10px;
+}
+.part3content {
+  width: 364px;
   height: 360px;
   background-color: white;
   border-radius: 6px;
-  }
-
-  .part3Container{
-    margin-right: -60px;
   }
 
 .textRight {
