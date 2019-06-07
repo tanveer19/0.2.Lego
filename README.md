@@ -1,1 +1,1 @@
-a website of Legos
+Lego.com website used to look like this. 
