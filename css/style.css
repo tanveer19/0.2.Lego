@@ -106,9 +106,7 @@
 .bg-part2 {
   background-image: url("../images/part2bg.jpg");
 }
-.bg-part2-right{
-  /* padding-top: 10px; */
-}
+
 
 .make-transform:hover {
   transform: scale(1.1);
@@ -169,10 +167,6 @@
   background: white;
   border-radius: 6px;
 }
-.part3content {
-  /* max-width: 370px; */
-  /* max-height: 95px; */
-  }
 
 .textRight {
   float: right;
